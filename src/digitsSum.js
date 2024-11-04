@@ -16,5 +16,5 @@ function sumOfDigits(n) {
   return sum;
 }
 
-let number = 1234;
+let number = -1234;
 alert('Сумма всех цифр числа ' + number + ' равна: ' + sumOfDigits(number));
