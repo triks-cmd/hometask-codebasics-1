@@ -9,4 +9,3 @@ module.exports.sumTwoNumbers = function sumTwoNumbers(firstNumber, secondNumber)
     return a + b;
   }
   alert(sumTwoNumbers(10, 5464333));
-};
